@@ -1,6 +1,6 @@
 module.exports = {
     // 站点路径
-    publicPath: process.env.NODE_ENV === 'development' ? '' : '/demo/',
+    publicPath: './',
     // 资源路径
     assetsDir: 'static',
 }
