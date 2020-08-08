@@ -1,6 +1,6 @@
 module.exports = {
     // 站点路径
-    publicPath: '/home/nginx/app/element/dist/',
+    publicPath: '/index/',
     // 资源路径
     assetsDir: 'static',
 }
